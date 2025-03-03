@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Proiect for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PredescuSebastianIon/fun.git"
+  },
+  "author": "Predescu",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/PredescuSebastianIon/fun/issues"
+  },
+  "homepage": "https://github.com/PredescuSebastianIon/fun#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
